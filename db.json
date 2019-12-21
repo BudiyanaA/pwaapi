@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Monkey, black spider","category":"Turquoise"},
+{"id":2,"name":"Ibis, sacred","category":"Maroon"},
+{"id":3,"name":"Stork, white-necked","category":"Yellow"},
+{"id":4,"name":"Barrows goldeneye","category":"Khaki"},
+{"id":5,"name":"Cormorant, pied","category":"Mauv"},
+{"id":6,"name":"Old world fruit bat (unidentified)","category":"Yellow"},
+{"id":7,"name":"Quoll, spotted-tailed","category":"Goldenrod"},
+{"id":8,"name":"Snake, racer","category":"Violet"},
+{"id":9,"name":"Emu","category":"Khaki"},
+{"id":10,"name":"Southern screamer","category":"Khaki"},
+{"id":11,"name":"South American puma","category":"Khaki"},
+{"id":12,"name":"Legaan, ground","category":"Crimson"},
+{"id":13,"name":"Coyote","category":"Goldenrod"},
+{"id":14,"name":"Black kite","category":"Pink"},
+{"id":15,"name":"Roadrunner, greater","category":"Goldenrod"},
+{"id":16,"name":"Owl, snowy","category":"Crimson"},
+{"id":17,"name":"Chacma baboon","category":"Mauv"},
+{"id":18,"name":"Screamer, crested","category":"Teal"},
+{"id":19,"name":"Wallaby, river","category":"Puce"},
+{"id":20,"name":"Black and white colobus","category":"Orange"}
+]
+}
